@@ -4,3 +4,4 @@ Delete the file betty
 Bye bye My first directory
 Back to the future
 Lists
+File type
